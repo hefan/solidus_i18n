@@ -558,6 +558,7 @@ de:
     add_action_of_type: Aktion hinzufügen
     add_country: Land hinzufügen
     add_coupon_code: Gutscheincode hinzufügen
+    add_line_item: Bestellposten hinzufügen
     add_new_header: Header hinzufügen
     add_new_style: Stil hinzufügen
     add_one: Hinzufügen
@@ -1191,6 +1192,7 @@ de:
     meta_title: Meta-Titel
     metadata: Metadaten
     minimal_amount: Mindestanzahl
+    minimize_menu: Menü minimieren
     modify_stock_count: Modifizieren (+/-)
     missing_return_authorization: Fehlende Rückerstattungserlaubnis %{item_name}.
     month: Monat
@@ -1204,6 +1206,7 @@ de:
     name_or_sku: Name oder Artikelnummer
     new: Neu
     new_adjustment: Neue Anpassung
+    new_adjustment_reason: Neuer Anpassungsgrund
     new_country: Neues Land
     new_customer: Neuer Kunde
     new_customer_return: Neue Kundenrücksendung
